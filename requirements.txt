@@ -1,0 +1,7 @@
+streamlit
+nltk
+nltk
+pandas
+numpy
+PyPDF2
+matplotlib
